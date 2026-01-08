@@ -131,31 +131,6 @@ Make sure you have the following installed on your system:
 ![image](https://github.com/user-attachments/assets/a5fa5aff-5862-4ca0-aba3-42a2d9ff0c82)
 
 
-## 😎 Project Maintainers
-
-<table>
-  <tr>
-
-
-
-  
-<td align="center"><a href="https://github.com/Suryanra"><img src="https://avatars.githubusercontent.com/u/142992104?v=4" width="100px;" alt=""/><br /><sub><b>Surya Pratap Singh</b></sub></a></td>
-
-
-<td align="center"><a href="https://github.com/sahilsingh84"><img src="https://avatars.githubusercontent.com/u/145158616?s=400&u=542461d5913311227d54054ba658620b6f4db56d&v=4" width="100px;" alt=""/><br /><sub><b>Sahil Singh</b></sub></a></td>
- 
-<td align="center"><a href="https://github.com/Sagar1917118"><img src="https://avatars.githubusercontent.com/u/142513579?s=400&u=9a63f1ee09100b74dab4ebbde15c5798d47bbc04&v=4" width="100px;" alt=""/><br /><sub><b>Sagar Kumar</b></sub></a></td>
-
-
-<td align="center"><a href="https://github.com/chaman56"><img src="https://avatars.githubusercontent.com/u/76009420?v=4" width="100px;" alt=""/><br /><sub><b>Chaman yadav</b></sub></a></td>
-
-<td align="center"><a href="https://github.com/Dilesh-Bisen"><img src="https://media.licdn.com/dms/image/v2/D4E03AQG-7NdypiLUjg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719986023825?e=1734566400&v=beta&t=uoOAUhPToTz47pVSWbfHuYlM8lh_wwNTwLSNj5zLjjE" width="100px;" alt=""/><br /><sub><b>Dilesh Bisen</b></sub></a></td>
-  
- </tr>
-</table>
-
-
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
